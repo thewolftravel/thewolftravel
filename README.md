@@ -3,7 +3,7 @@ Hi there 👋 I'm Karina Bittencourt or @thewolftravel in the online world.
 🌟 Frontend Developer | Insurance Public Adjuster | Teacher 🌟
 
 😄 Pronouns: She/Her
-📍 Lynn Haven, Florida, United States
+📍 Broomfield, Colorado, United States
 📧 bittencourtkah@gmail.com
 🔗 <a href="https://www.linkedin.com/in/bittencourtk/" target="_blank">LinkedIn</a>
 
