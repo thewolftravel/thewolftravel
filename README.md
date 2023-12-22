@@ -1,10 +1,10 @@
 Hi there 👋 I'm Karina Bittencourt or @thewolftravel in the online world.
 
-🌟 Frontend Developer | Insurance Public Adjuster | Teacher 🌟
+🌟 Frontend Developer | Insurance Public Adjuster | Photographer 🌟
 
 😄 Pronouns: She/Her
 📍 Broomfield, Colorado, United States
-📧 bittencourtkah@gmail.com
+📧 <a href="mailto:bittencourtkah@gmail.com">bittencourtkah@gmail.com
 🔗 <a href="https://www.linkedin.com/in/bittencourtk/" target="_blank">LinkedIn</a>
 
 🚀 Welcome to my GitHub profile! 🚀
